@@ -1,20 +1,22 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌍 KidsPlanet
 
-# Run and deploy your AI Studio app
+KidsPlanet is an offline-first, privacy-safe educational web app for children.  
+It offers stories, rhymes, creative activities, and healthy screen-time features — built for kids, trusted by parents.
 
-This contains everything you need to run your app locally.
+## ✨ Features
+- 📖 Stories & rhymes
+- 🎵 Read-along / audio support
+- 📴 Works offline (PWA)
+- ⚡ Fast loading & lightweight
+- ⏰ Screen-time break reminders
+- 🎨 Creative activities
+- 🌍 Multi-language ready
+- 🔐 No login, no tracking, no ads
 
-View your app in AI Studio: https://ai.studio/apps/drive/1dTRtqwMjPnmO0tDU4DlKArN5yBDgGCin
+## 🛠️ Tech Stack
+- HTML, CSS, JavaScript
+- JSON-based content
+- PWA (Service Worker + Cache)
+- Netlify hosting
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📂 Project Structure

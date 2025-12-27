@@ -20,3 +20,20 @@ It offers stories, rhymes, creative activities, and healthy screen-time features
 - Netlify hosting
 
 ## 📂 Project Structure
+
+## 🔐 Privacy
+- No user accounts
+- No personal data collected
+- Child-safe & parent-friendly
+
+## 🌱 Roadmap
+- Emotion-aware learning
+- Offline life missions
+- Parent-child co-play mode
+
+## 🌍 Live
+https://kidsplanet.live
+
+## 📜 License
+MIT License
+

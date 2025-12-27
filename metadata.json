@@ -1,0 +1,7 @@
+{
+  "name": "Kids Planet",
+  "description": "A colorful, interactive educational platform for children featuring learning modules for alphabets, numbers, space exploration, and AI-generated stories.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

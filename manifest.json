@@ -1,0 +1,41 @@
+
+{
+  "name": "Kids Planet",
+  "short_name": "Kids Planet",
+  "description": "Fun and educational planet for children",
+  "id": "kids-planet-pwa-final-v1",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#FF6B6B",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3212/3212567.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3212/3212567.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3212/3212567.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["education", "games"],
+  "shortcuts": [
+    {
+      "name": "Daily Quest",
+      "url": "./?route=challenge",
+      "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/3212/3212567.png", "sizes": "192x192" }]
+    }
+  ]
+}
